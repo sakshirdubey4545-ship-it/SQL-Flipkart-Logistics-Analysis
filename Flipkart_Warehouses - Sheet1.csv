@@ -1,0 +1,11 @@
+Warehouse_ID,Warehouse_Name,City,Processing_Capacity,Average_Processing_Time_Min
+WH_01,Flipkart Fulfillment Center Lucknow,Lucknow,5020,101
+WH_02,Flipkart Fulfillment Center Delhi,Delhi,7415,63
+WH_03,Flipkart Fulfillment Center Mumbai,Mumbai,7788,84
+WH_04,Flipkart Fulfillment Center Ahmedabad,Ahmedabad,7780,81
+WH_05,Flipkart Fulfillment Center Jaipur,Jaipur,5965,58
+WH_06,Flipkart Fulfillment Center Kolkata,Kolkata,4133,95
+WH_07,Flipkart Fulfillment Center Pune,Pune,7042,41
+WH_08,Flipkart Fulfillment Center Bengaluru,Bengaluru,3385,44
+WH_09,Flipkart Fulfillment Center Hyderabad,Hyderabad,4252,110
+WH_10,Flipkart Fulfillment Center Chennai,Chennai,4310,117
